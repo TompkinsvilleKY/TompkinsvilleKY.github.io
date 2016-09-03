@@ -23,6 +23,9 @@ a {
     float: left;
     padding: 5px;
 }
+.clear{
+  clear: both;
+}
 }
 .btn {
   display: inline-block;
