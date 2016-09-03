@@ -21,6 +21,7 @@ a {
 .leftlist li {
     display: inline;
     float: left;
+    padding: 5px;
 }
 }
 .btn {
