@@ -14,10 +14,13 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-.left{
-  float: left;
+}
+.leftlist{
   list-style: none;
 }
+.leftlist li {
+    display: inline;
+    float: left;
 }
 }
 .btn {
